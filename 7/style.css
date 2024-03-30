@@ -1,0 +1,70 @@
+body {
+    background-color: hsl(217, 54%, 11%) ;
+}
+.div1 {
+   background-color:hsl(216, 50%, 16%);
+    width: 300px;
+    height: 500px;
+    margin-left: 600px;
+    margin-top: 140px;
+    border-radius: 10px;
+}
+.mm {
+    width: 260px;
+    height: 250px;
+    border-radius: 10px;
+    margin-left: 21px;
+    margin-top: 21px;
+}
+.mn {
+    font-family: "Outfit", sans-serif;
+    font-size: 20px;
+    color: hsl(0, 0%, 100%) ;
+    margin-left: 20px ;     
+}
+.nn {
+    color:hsl(215, 51%, 70%);
+    font-family: "Outfit", sans-serif;
+    margin-left:20px ;
+}
+.div2 {
+    background-color:hsl(215, 32%, 27%) ;
+    width: 260px;
+    height: 1px;
+    margin-left: 20px;
+    margin-top: 60px;
+}
+.tt {
+    border-radius: 50px;
+    width:30px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border: 2px white solid;
+}
+.tm {
+    font-family: "Outfit", sans-serif; 
+    margin-left: 70px;
+    margin-top: -30px;
+    color:hsl(215, 51%, 70%) ;
+    font-size: 15px;
+}
+.tn {
+    font-family: "Outfit", sans-serif;
+    margin-left: 150px;
+    margin-top: -34px;
+    font-size: 15px;
+    color: aliceblue;
+}
+.gg {
+    font-family: "Outfit", sans-serif;
+    color: aliceblue;
+    margin-top: -83px;
+    margin-left: 20px;
+}
+.dd {
+    font-family: "Outfit", sans-serif;
+    margin-top: -35px;
+    margin-left: 200px;
+    color:hsl(215, 51%, 70%) ;
+}
+
